@@ -1,5 +1,5 @@
 ### vue-project
-管理系统的项目有兴趣的可以一起完成
+管理系统的项目有兴趣的可以一起完成！
 
 ### explain
 server文件夹直接npx nodemon 即可 （当然如果觉得麻烦可以在packjson文件中的scripts配置项中配置） vue-project文件夹需要 yarn 安装依赖 目前使用node本地服务器也没有使用数据库，缺乏后端开发人员（死数据）
